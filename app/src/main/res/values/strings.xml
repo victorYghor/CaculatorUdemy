@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaculatorUdemy</string>
+    <string name="you_cannot_put_another_operator">You cannot put another operator</string>
+</resources>
